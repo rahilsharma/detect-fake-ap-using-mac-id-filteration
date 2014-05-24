@@ -15,3 +15,6 @@ Full Paper can be found here :  http://www.ijmra.us/2013ijesr_december.php
 # usage python rsdetectfake.py mon0 VOLSBB authorized mac_id
 where 
 mon0----our monitor mode interface
+
+volsbb----our wifi access point name
+
