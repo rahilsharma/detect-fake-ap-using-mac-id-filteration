@@ -24,5 +24,6 @@ ALGO USED:::::
 #extract ip ssid and mac address
 #while giving command line inputs give original mac and ssid these will be used for comparing
 #if ssids of both machines is same then only we compare their mac ids 
+#if match not found then it is a fake access point 
 
 
